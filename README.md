@@ -2,9 +2,9 @@
 
 # ⚡ Hi, I'm Siddharth 👋
 
-### **Full-Stack Engineer & AI / ML Automation Architect**
+### **Full-Stack Software Engineer & AI Systems Architect**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=AI Agent Workflows %26 LLM Pipelines;Full-Stack Architecture (Next.js %2B FastAPI);Python Automation %26 Scalable Backend Bots;High-Performance C%2B%2B %26 Low-Latency Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Full-Stack+Software+Engineering;AI+Agent+Workflows+%26+LLM+Pipelines;Python+Automation+%26+Scalable+Backends;Low-Latency+C%2B%2B+%26+Core+System+Engines)](https://git.io/typing-svg)
 
 ---
 
@@ -28,23 +28,26 @@
 
 ## 🔭 About Me
 
-- 🤖 **AI, ML & Automation Focus:**
-  - Building end-to-end **AI agents**, RAG pipelines, and automated workflow orchestrations using **Python & FastAPI**.
-  - Training, fine-tuning, and evaluating LLMs and vision models into low-latency production microservices.
-  - Designing full-stack web applications (**Next.js 15 / React + Node.js / FastAPI / C++ core engines**).
+- 💻 **Full-Stack & Systems Focus:**
+  - Engineering end-to-end distributed software systems, high-throughput microservices, and modern desktop/web applications.
+  - Architecting resilient backends with **FastAPI, Node.js, and C++ core engines** paired with modern frontends.
+
+- 🤖 **AI, ML & Automation:**
+  - Building autonomous **AI agents**, production RAG pipelines, and intelligent workflow automation using **Python**.
+  - Integrating fine-tuned LLMs and computer vision models into low-latency production services.
 
 - 👯 **Looking to Collaborate On:**
-  - Open-source AI tooling, Python automation frameworks, and high-performance full-stack architectures.
-  - Hardcore AI systems and automation pipelines built for high throughput.
+  - High-performance software architectures, open-source AI frameworks, and Python automation systems.
+  - Complex systems projects requiring low-level optimization and scale.
 
 - 🌱 **Currently Elevating:**
   - Advanced LLM reasoning chains, long-context retrieval, and distributed inference (**vLLM**, **DeepSpeed**).
-  - Advanced C++20/23 integration for low-latency AI inference modules.
+  - Modern C++20/23 features for low-latency engine design and system integrations.
 
 - 💬 **Ask Me About:**
-  - Modern Python automation & backend orchestration.
-  - Full-stack architecture designed to handle sudden 10× scale.
-  - Converting complex ML papers into production code in **<48h**.
+  - Scalable backend engineering and automated software pipelines.
+  - Designing full-stack system architectures capable of handling 10× traffic bursts.
+  - Converting research papers into deployment-ready software in **<48h**.
 
 - ⚡ **Fun Fact:**
   > I once rebuilt an entire production backend from scratch in **9 hours** because the original author left and the system was on fire. Still have the caffeine receipts. ☕  
@@ -56,26 +59,30 @@
 
 <div align="center">
 
-### 🧠 AI, Machine Learning & Python Automation
+### ⚙️ Software Engineering & Core Backends
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### 🧠 AI, Machine Learning & Automation
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌐 Full-Stack Web Development
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🌐 Frontend & Interfaces
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### ☁️ Databases, DevOps & Automation Infrastructure
+### ☁️ Databases, DevOps & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
